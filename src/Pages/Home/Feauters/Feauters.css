@@ -1,0 +1,32 @@
+.display_flex {
+    display: flex;
+    padding: 100px;
+    gap: 30px;
+}
+
+.bd_url {
+    background-image: url('../../../images/featured.jpg');
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: 100%;
+}
+
+.text-color-containt h2 {
+    color: wheat;
+}
+
+.text-color-containt h3 {
+    color: wheat;
+}
+
+.text-color-containt p {
+    color: wheat;
+    margin-bottom: 10px;
+}
+
+.text-color-containt button {
+    color: wheat;
+    border-bottom: 2px solid gainsboro;
+    padding: 5px;
+    border-radius: 5px;
+}

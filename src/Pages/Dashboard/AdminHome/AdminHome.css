@@ -1,0 +1,56 @@
+.admin-home-container {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.admin-home-contaner {
+    display: flex;
+    gap: 7px;
+    justify-content: space-around;
+}
+
+.admin-home-background {
+    padding: 10px 20px;
+    height: 100px;
+    min-width: 180px;
+    border-radius: 10px;
+}
+
+.admin-flex-container {
+    display: flex;
+    gap: 10px;
+}
+
+.admin-home-icon {
+    height: 17vh;
+    display: flex;
+    align-content: center;
+    color: white;
+    font-size: 30px;
+}
+
+.background {
+    background: linear-gradient(45deg, #8e44ad, #e297ff);
+}
+
+.background1 {
+    background: linear-gradient(45deg, #f9ca24, #ffd889);
+}
+
+.background2 {
+    background: linear-gradient(45deg, #ED4C67, #ff9eae);
+}
+
+.background3 {
+    background: linear-gradient(45deg, #12CBC4, #a9fffc);
+}
+
+.display_grid{
+    display: grid;
+    grid-template-columns: 60% 30%;
+    gap: 20px;
+}
+
+.home_admin{
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.dispay_menu_wrap{
+    flex-basis: 45%;
+    display: flex;
+    gap: 10px;
+}
+.dispay_menu_wrap img{
+    width: 120px;
+    border-radius: 0 120px 120px 120px;
+}
+.dispay_menu_wrap p{
+    color: orange;
+}
+.dispay_menu_text h1{
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: rgb(139, 139, 139);
+}
+.dispay_menu_text p{
+    color: rgb(139, 139, 139);
+}

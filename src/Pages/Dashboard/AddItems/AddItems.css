@@ -1,0 +1,47 @@
+.admin_form {
+    background-color: #dcdde1;
+    width: 100%;
+}
+
+.btn_successfully{
+   background: linear-gradient(45deg, #f39c12, #fbc531);
+   margin: 5px 0px;
+   padding: 10px 10px;
+   width: 30%;
+   color: #fff;
+}
+.admin_icon{
+    display: inline-block;
+}
+
+.admin_form form {
+    padding: 30px;
+}
+
+.admin_form form div {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.admin_flex {
+    display: flex;
+    gap: 10px;
+}
+
+.admin_form form div input {
+    width: 100%;
+}
+
+.select_select {
+    margin-top: 6px;
+}
+
+.admin_form form div select {
+    width: 100%;
+    margin-top: 6px;
+}
+
+.admin_form form div textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}

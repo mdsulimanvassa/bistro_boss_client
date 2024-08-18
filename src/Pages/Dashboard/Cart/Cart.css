@@ -1,0 +1,7 @@
+.dash_cart{
+    display: flex;
+    justify-content: space-between;
+}
+.cart_padding{
+    margin-top: 20px;
+}

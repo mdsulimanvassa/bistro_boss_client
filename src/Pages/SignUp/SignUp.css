@@ -1,0 +1,13 @@
+.card-body h1{
+    text-align: center;
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.card-body p small a{
+    color: green;
+}
+
+.text-error{
+    color: red;
+}
